@@ -33,7 +33,7 @@ import { AuthService } from './auth.service';
   `
 })
 export class LoginComponent {
-	message: string = 'Vous êtes déconnecté. (pikachu/pikachu)';
+	message: string = 'Vous êtes déconnecté. (admin/admin)';
 	private name: string;
 	private password: string;
 
